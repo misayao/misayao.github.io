@@ -37,3 +37,8 @@
 .x6 {
     grid-area: w6;
 }
+
+h1 {
+    font-family: sans-serif;
+    color: blue;
+}
